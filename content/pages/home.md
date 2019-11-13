@@ -2,8 +2,8 @@
 template: HomePage
 slug: ''
 title: Eric J Chiang
-featuredImage: /images/uploads/colour.jpg
-subtitle: <links to social media accounts>
+featuredImage: /images/uploads/realestate.jpg
+subtitle: \-Links to Social Media Accounts-
 meta:
   title: ''
 ---
