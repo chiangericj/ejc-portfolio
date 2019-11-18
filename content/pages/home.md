@@ -4,9 +4,15 @@ slug: ''
 title: Eric J Chiang
 featuredImage: /images/uploads/realestate.jpg
 subtitle: |-
-  \-Links to Social Media Accounts-
+  ![](/images/uploads/instagram.jpg)
 
-  hmm
+  https://www.linkedin.com/in/chiangericj/
+
+  https://www.instagram.com/ewicchiang/
+
+  https://www.facebook.com/chiang.ericj
+
+  chiang.ericj@gmail.com
 meta:
   title: ''
 ---
