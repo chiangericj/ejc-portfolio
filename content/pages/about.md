@@ -1,33 +1,24 @@
 ---
 template: AboutPage
 slug: about
-title: About page title
+title: About
 featuredImage: /images/uploads/tim-marshall-155597.jpg
-subtitle: Test subtitle
+subtitle: 'Resume, projects, and more!'
 section1: >-
-  ## Lorem Ipsum
+  ## Current Projects
 
 
-  [Link test](/images/uploads/isabella-juskova.jpg)
+  * Chingoo Properties, real estate investment startup [Link
+  test](/images/uploads/isabella-juskova.jpg) (link to chingooproperties
+  website)
+
+  * Magnolia Rehab Project
+
+  * 1st and 2nd Investment Property
 
 
-  ### Embed Test
-
-
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
-  allow="autoplay; encrypted-media" allowfullscreen></iframe>
-section2: |-
-  ## This is a Container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-  Dictumst a ultrices mi a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit scelerisque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
-testImage: /images/uploads/mark-chang-74-3.jpg
+  ![](/images/uploads/website-projects.png)
+section2: '## Resume'
+testImage: /images/uploads/isabella-juskova.jpg
 ---
 
