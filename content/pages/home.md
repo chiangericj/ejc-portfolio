@@ -16,7 +16,7 @@ subtitle: |-
 meta:
   title: ''
 ---
-I am an
+I am an aspiring
 
 # ENGINEER
 
