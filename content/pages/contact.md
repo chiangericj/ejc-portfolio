@@ -1,20 +1,19 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact
+title: Contact Information
 featuredImage: /images/uploads/mark-chang-74-3.jpg
-subtitle: Contact Page has a subtitle
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+subtitle: Questions and Concerns
+address: 'Houston, TX'
+phone: (346) 345-3611
+email: chiang.ericj@gmail.com
 ---
+# Contact Me
 
-# Example contact form
+My preferred method of contact is email. Contact me regarding any questions on:
 
-This form is setup to use Netlify's form handling:
+* Investor opportunities 
+* Current or upcoming projects 
+* To just say hi!  
 
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+I am generally available 9 am - 9 pm weekdays and weekends.
