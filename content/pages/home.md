@@ -4,8 +4,6 @@ slug: ''
 title: Eric J Chiang
 featuredImage: /images/uploads/realestate.jpg
 subtitle: |-
-  ![](/images/uploads/instagram.jpg)
-
   https://www.linkedin.com/in/chiangericj/
 
   https://www.instagram.com/ewicchiang/
@@ -29,3 +27,7 @@ I am an aspiring
 Real Estate Investment Company Startup
 
 Facilities Engineer Background
+
+
+
+<- Profile Picture -> 2nd column
