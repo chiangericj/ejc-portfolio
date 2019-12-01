@@ -4,21 +4,22 @@ slug: about
 title: About
 featuredImage: /images/uploads/tim-marshall-155597.jpg
 subtitle: 'Resume, projects, and more!'
-section1: >-
+section1: |-
   ## Current Projects
 
+  * _Magnolia Rehab Project_
+  * _1st and 2nd Investment Property_
+  * _Real Estate Investment Startup Company_
 
-  * Chingoo Properties, real estate investment startup [Link
-  test](/images/uploads/isabella-juskova.jpg) (link to chingooproperties
-  website)
-
-  * Magnolia Rehab Project
-
-  * 1st and 2nd Investment Property
-
+  _Link to Chingoo website_
 
   ![](/images/uploads/website-projects.png)
-section2: '## Resume'
+section2: |-
+  ## Resume
+
+  Information TBD
+
+  vvv How to remove this below vvv
 testImage: /images/uploads/isabella-juskova.jpg
 ---
 
